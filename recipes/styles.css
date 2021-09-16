@@ -1,0 +1,15 @@
+img {
+    height: auto;
+    width: 300px;
+  }
+  #title {
+      color: violet;
+  }
+  h3 {
+    color: violet;
+  }
+  li {
+    content: "•"; 
+    color: red;
+    margin-left: -1em
+  }
